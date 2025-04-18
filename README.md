@@ -13,7 +13,6 @@
 - [Key Insights](#key-insights)
 - [Tools & Technologies](#tools--technologies)
 - [Challenges & Mitigation](#challenges--mitigation)
-- [Team Members](#team-members)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
 
 ---
