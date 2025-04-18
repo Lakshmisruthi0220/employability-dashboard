@@ -1,4 +1,4 @@
-# Employability Analytics Dashboard - Team 10
+# Employability Analytics Dashboard
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -138,15 +138,6 @@ Our Power BI dashboard offers five primary views:
 | Skill mapping inconsistencies    | Manual standardization of job titles and skill sets |
 | Dashboard usability              | Feedback-based iterative improvements               |
 
----
-
-## Team Members
-- Deepthi Boddu
-- Lakshmi Sruthi Bodipudi
-- Meghana Kakkireni
-- Narendra Reddy Kallem
-- Ramsailesh Reddy Kakarla
-- Seetha Rama Karthikeya Vempati
 
 ---
 
