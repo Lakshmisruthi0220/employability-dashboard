@@ -13,7 +13,6 @@
 - [Key Insights](#key-insights)
 - [Tools & Technologies](#tools--technologies)
 - [Challenges & Mitigation](#challenges--mitigation)
-- [Team Members](#team-members)
 - [How to Use the Dashboard](#how-to-use-the-dashboard)
 
 ---
@@ -146,16 +145,6 @@ Our Power BI dashboard offers five primary views:
 | Feature overload                 | Prioritized MVP features                            |
 | Skill mapping inconsistencies    | Manual standardization of job titles and skill sets |
 | Dashboard usability              | Feedback-based iterative improvements               |
-
----
-
-## Team Members
-- Deepthi Boddu
-- Lakshmi Sruthi Bodipudi
-- Meghana Kakkireni
-- Narendra Reddy Kallem
-- Ramsailesh Reddy Kakarla
-- Seetha Rama Karthikeya Vempati
 
 ---
 
